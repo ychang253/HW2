@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  HW2.cpp
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\hw2.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+HW2.obj : error LNK2019: unresolved external symbol "public: __thiscall Grid::Grid(int)" (??0Grid@@QAE@H@Z) referenced in function "void __cdecl ErrorVsGridSpacing2DWave(void)" (?ErrorVsGridSpacing2DWave@@YAXXZ)
+HW2.obj : error LNK2019: unresolved external symbol "public: __thiscall Grid::~Grid(void)" (??1Grid@@QAE@XZ) referenced in function "void __cdecl ErrorVsGridSpacing2DWave(void)" (?ErrorVsGridSpacing2DWave@@YAXXZ)
+HW2.obj : error LNK2019: unresolved external symbol "public: void __thiscall Grid::SolveByJacobi(int,double)" (?SolveByJacobi@Grid@@QAEXHN@Z) referenced in function "void __cdecl ErrorVsGridSpacing(void)" (?ErrorVsGridSpacing@@YAXXZ)
+HW2.obj : error LNK2019: unresolved external symbol "public: void __thiscall Grid::OutputResultAsVTK(void)" (?OutputResultAsVTK@Grid@@QAEXXZ) referenced in function "void __cdecl ErrorVsGridSpacing(void)" (?ErrorVsGridSpacing@@YAXXZ)
+HW2.obj : error LNK2019: unresolved external symbol "public: void __thiscall Grid::SolveTwoDWave(void)" (?SolveTwoDWave@Grid@@QAEXXZ) referenced in function "void __cdecl ErrorVsGridSpacing2DWave(void)" (?ErrorVsGridSpacing2DWave@@YAXXZ)
+C:\Dan\Wisconsin\2020\2020 Fall\Math714\HW2\HW1_Program\HW2\Debug\HW2.exe : fatal error LNK1120: 5 unresolved externals
