@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  Grid.cpp
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(99): warning C4101: 'MaxError': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(99): warning C4101: 'Error': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(105): warning C4101: 'f': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(105): warning C4101: 'dudy': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(98): warning C4101: 'iCount': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(175): warning C4101: 'MaxError': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(175): warning C4101: 'Error': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(181): warning C4101: 'f': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(181): warning C4101: 'dudy': unreferenced local variable
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\grid.cpp(174): warning C4101: 'iCount': unreferenced local variable
+  HW2.cpp
+c:\dan\wisconsin\2020\2020 fall\math714\hw2\hw1_program\hw2\hw2\hw2.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HW2.vcxproj -> C:\Dan\Wisconsin\2020\2020 Fall\Math714\HW2\HW1_Program\HW2\x64\Release\HW2.exe
